@@ -17,7 +17,7 @@ Instale a dependencia:
     npm install -g json-server
 ```
 
-Inicie o projeto:
+Inicie o servidor:
 
 ```
     json-server --watch db.json
