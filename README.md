@@ -11,7 +11,7 @@ Clone o repositorio:
   cd Mobili-JSON_Server
 ```
 
-Instale a dependencia:
+Instale o pacote:
 
 ```
     npm install -g json-server
